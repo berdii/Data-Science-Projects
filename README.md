@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-## Project 1: [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/36c1c052-ae58-4bf7-96cb-cbf58deb27f0)
+## Project 1: [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/berkodk/Data-Science-Projects/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)
 
 Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
 
@@ -11,7 +11,7 @@ As evidence of this, they have provided us with the following information. For t
 If we're going to be working with this data, we know a good place to start would be to probably start working with pandas. But first we'll need to create a DataFrame from scratch. 
 
 
-## Project 2: [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/c5120331-0956-403d-aab7-340154951afd)
+## Project 2: [The GitHub History of the Scala Language](https://github.com/berkodk/Data-Science-Projects/blob/main/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
 
 With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
 
