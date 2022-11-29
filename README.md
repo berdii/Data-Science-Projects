@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Machine Learning-Projects
 
 ## Project 1: [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/berkodk/Data-Science-Projects/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)
 
