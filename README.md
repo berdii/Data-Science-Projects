@@ -19,14 +19,13 @@ Scala is also an open source project. Open source projects have the advantage th
 
 We're going to read in, clean up, and visualize the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). We will find out who has had the most influence on its development and who are the experts.
 
+## Project 3: [Human Activity Recognition using Smartphone Data with Machine Learning](https://github.com/berkod-ai/ML-Projects/blob/main/Human_Activity_Recognition_using_Smartphone_Data_with_Machine_Learning.ipynb)
 
-## Project 3: Data Science Salary Estimator
+Human activity recognition is the problem of classifying sequences of data recorded by specialized harnesses or smart phones into known well-defined Human activities.
 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Built a client facing API using flask
+It is a challenging problem as the large number of observations are produced each second, the temporal nature of the observations, and the lack of a clear way to relate data to known movements increase the challenges.
+
+In this Machine Learning Project, I will create a model for recognition of human activity using the smartphone data.
 
 
 ## Project 4: Drive your career to new heights 
@@ -45,3 +44,11 @@ How many times has it occurred to you that even after seeing, you don’t rememb
 ## Project 6: Titanic - Machine Learning from Disaster
 
 In this project, we build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+## Project 7: Data Science Salary Estimator
+
+* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
+* Scraped over 1000 job descriptions from glassdoor using python and selenium
+* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+* Built a client facing API using flask
